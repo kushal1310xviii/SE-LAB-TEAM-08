@@ -1,18 +1,20 @@
-Kushal G
-SRN: PES1UG24AM145
+# Kushal G
 
-SE Lab Team 08
+**SRN:** `PES1UG24AM145`
+
+---
+
+## SE Lab Team 08
+
 Software Engineering Laboratory — Team 08
 
-Team Repository
-This repository contains the work, assignments, lab exercises, and project deliverables for SE Lab Team 08.
+### Team Repository
 
-Contents:
+This repository contains the work, assignments, lab exercises, and project deliverables for **SE Lab Team 08**.
 
-Software Engineering Lab Exercises
-Assignments and Reports
-Project Documentation
-Other required deliverables
+### Contents
 
-Repository
-GitHub: https://github.com/kushal1310xviii/SE-LAB-TEAM-08
+* Software Engineering Lab Exercises
+* Assignments and Reports
+* Project Documentation
+* Other required deliverables
